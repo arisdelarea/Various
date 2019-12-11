@@ -7,3 +7,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="Cartoon",Cartoon Network (HD)
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+
+#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/ABS-CBN_(TV_network)#/media/File:ABS-CBNHD.png" group-title="Pinoy TV",ABS CBN 2
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&id=AgBwxmdqQZkSBWUJ4VqD0Ih+K4%2f9ACgmF7VtfgK%2fqqDtsrlJrS2b9cD7QhNeX%2fYAiVXRhBLyPtQxKw%3d%3d&hdntl=exp=1524783845~acl=%2f*~data=hdntl~hmac=26f6995044c9acb4e47c9c71e807ae3fec32430f50fdb7cfbbb1e595bc04e773
