@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:0 tvg-id="NatGeoPeople.in" group-title="USA",Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="USA",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="USA",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
