@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="UK",Nat Geo Wild (Asia)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Nature",Nat Geo Wild (Asia)
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
