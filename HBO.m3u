@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0,NL- HBO 2
+http://linux-app.tv:6204/live/Reda/Reda/9554.ts
+#EXTINF:0,Pl- HBO 2 HD
+http://linux-app.tv:6204/live/Reda/Reda/10537.ts
+#EXTINF:0,Pl- HBO HD
+http://linux-app.tv:6204/live/Reda/Reda/10536.ts
+#EXTINF:0,Cz- HBO HD
+http://linux-app.tv:6204/live/Reda/Reda/8344.ts
+#EXTINF:0,Cz- HBO2
+http://linux-app.tv:6204/live/Reda/Reda/8343.ts
+#EXTINF:0,Cz- HBO3
+http://linux-app.tv:6204/live/Reda/Reda/8342.ts
+#EXTINF:0,Ro- HBO
+http://linux-app.tv:6204/live/Reda/Reda/9045.ts
+#EXTINF:0,Us- HBO Comedy HD
+http://linux-app.tv:6204/live/Reda/Reda/10411.ts
+#EXTINF:0,Us- HBO Signature
+http://linux-app.tv:6204/live/Reda/Reda/10410.ts
+#EXTINF:0,Us- HBO US HD
+http://linux-app.tv:6204/live/Reda/Reda/10409.ts
+#EXTINF:0,Us- HBO ZONE HD
+http://linux-app.tv:6204/live/Reda/Reda/10408.ts
+#EXTINF:0,OSN First HBO HD
+http://linux-app.tv:6204/live/Reda/Reda/4056.ts
