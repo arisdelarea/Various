@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Nature",Nat Geo Wild (Asia)
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Favorites",Nat Geo Wild (Asia)
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="National Geographic",Nat Geo People
+#EXTINF:0 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="Favorites",Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
  
-#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="National Geographic",Nat Geo Wild
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Favorites",Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="National Geographic",National Geographic
+#EXTINF:0 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="Favorites",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
-#EXTINF:0 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="WORLD NEWS",Arirang TV
+#EXTINF:0 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="Favorites",Arirang TV
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 
-#EXTINF:0 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="WORLD NEWS",Al Jazeera (QA) (Opt-1)
+#EXTINF:0 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="Favorites",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:0 tvg-logo="http://github.com/arisdelarea/Various/blob/master/img_BBCNews.png" group-title="WORLD NEWS",BBC World News
+#EXTINF:0 tvg-logo="http://github.com/arisdelarea/Various/blob/master/img_BBCNews.png" group-title="Favorites",BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
