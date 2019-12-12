@@ -1,7 +1,22 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/XTv8pla.png" group-title="Favorites",Motorsport TV
+http://45.58.62.92:8084
+
 #EXTINF:0 tvg-logo="https://bit.ly/349kjjL" group-title="Favorites",Nat Geo Wild (Asia)
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="Favorites",BBC World
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="Favorites",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="Favorites",PBS
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="Favorites",ABC
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="Favorites",Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
@@ -12,29 +27,17 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="Favorites",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
+#EXTINF:0 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="Favorites",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
 #EXTINF:0 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="Favorites",Arirang TV
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 
 #EXTINF:0 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="Favorites",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:0 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="Favorites",BBC World
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Favorites",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="Favorites",PBS
-http://190.80.3.28/PBS/PBS.isml/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="Favorites",ABC
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="Favorites",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/XTv8pla.png" group-title="Favorites",Motorsport TV
-http://45.58.62.92:8084
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/i3lItFB.png" group-title="Favorites",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -60,15 +63,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/12
 #EXTINF:0 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Favorites",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA",Filmrise Classics
+#EXTINF:0 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Favorites",Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Crime
+#EXTINF:0 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="Favorites",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="USA",Filmrise Family
+#EXTINF:0 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="Favorites",Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="USA",Filmrise Movies
+#EXTINF:0 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="Favorites",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 
