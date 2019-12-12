@@ -17,14 +17,11 @@ http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 #EXTINF:0 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="Favorites",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/arisdelarea/Various/blob/master/img_BBCNews.png" group-title="Favorites",BBC World
+#EXTINF:0 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="Favorites",BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Favorites",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="Favorites",CBS (WFOR) (Opt-2)
-http://190.80.3.28/CBS/CBS.isml/index.m3u
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="Favorites",PBS (WPBT) (EST)
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
