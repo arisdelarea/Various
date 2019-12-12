@@ -104,3 +104,9 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="Favorites",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NqhClyl.png" group-title="Favorites",Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="Favorites",Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
