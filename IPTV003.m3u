@@ -89,3 +89,6 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QqLoAs7.png" group-title="Favorites",Nickelodeon
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Favorites",Knowledge Network
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
