@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Nature",Nat Geo Wild (Asia)
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Nature",Nat Geo Wild (Asia)
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="USA",Nat Geo Wild
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="USA",Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
-#EXTINF:0 tvg-logo="https://github.com/arisdelarea/Various/blob/master/img_Fox.png" group-title="News",Fox News
-http://51.159.18.117:8000/jt6MfjFNn0/cQTgIUqlyM/89
+#EXTINF:0 tvg-logo="http://github.com/arisdelarea/Various/blob/master/img_BBCNews.png" group-title="NEWS",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
