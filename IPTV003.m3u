@@ -27,6 +27,9 @@ http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Favorites",Food Network
 http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/nGIOiF6.png" group-title="Favorites",Discovery Velocity
+http://195.181.169.148/Discovery_velocity_121_Eng/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="Favorites",Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
  
