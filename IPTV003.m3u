@@ -39,9 +39,6 @@ http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 #EXTINF:0 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="Favorites",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Favorites",TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/i3lItFB.png" group-title="Favorites",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
@@ -56,6 +53,9 @@ https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
  
 #EXTINF:0 tvg-logo="https://i.imgur.com/3yuh4jV.png" group-title="Favorites",Singapore Ch. 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Favorites",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="Favorites",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
