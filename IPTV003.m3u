@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:0 tvg-logo="https://bit.ly/349kjjL" group-title="Favorites",Nat Geo Wild (Asia)
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
@@ -43,3 +44,15 @@ https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/nQuPbW8.png" group-title="Favorites",TV Shop
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="Favorites",Sky News (UK)
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+
+#EXTINF:0 tvg-logo="http://akamaicdn.shoplc.com/landing/product-recalls/ShopLC--DeliveringJoy.png" group-title="Favorites",Shop LC
+https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/iM8sC4v.png" group-title="Favorites",Singapore Ch. 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/3yuh4jV.png" group-title="Favorites",Singapore Ch. 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
