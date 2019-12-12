@@ -114,6 +114,14 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:0 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="Favorites",Aniplus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/NqhClyl.png" group-title="Favorites",Animax
-http://103.13.228.157/streamlink.m3u8?channel_id=d3edb48a8bb847c78432270e23ddca73
+#EXTINF:0 tvg-logo="https://i.imgur.com/NqhClyl.png" group-title="Favorites",Sonic Nickelodeon
+http://cdn99.live:8080/live/254mr96/smr8947sm/71731.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/NqhClyl.png" group-title="Favorites",Sony Entertainment
+http://cdn99.live:8080/live/254mr96/smr8947sm/71732.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NqhClyl.png" group-title="Favorites",Sony ESPN
+http://cdn99.live:8080/live/254mr96/smr8947sm/71733.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NqhClyl.png" group-title="Favorites",Sony HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/71696.m3u8
