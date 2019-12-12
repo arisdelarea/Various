@@ -19,12 +19,3 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 
 #EXTINF:0 tvg-logo="http://github.com/arisdelarea/Various/blob/master/img_BBCNews.png" group-title="Favorites",BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Favorites",Food Network (Geo)
-http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Favorites",Food Network
-http://95.86.32.7:999/food
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Favorites",Fox Sports
-http://45.58.62.92:8080
