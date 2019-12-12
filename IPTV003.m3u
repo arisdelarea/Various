@@ -95,3 +95,6 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/AHmnFAw.png" group-title="Favorites",Fashion Channel
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="Favorites",ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
