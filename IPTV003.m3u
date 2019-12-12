@@ -17,14 +17,8 @@ http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 #EXTINF:0 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="Favorites",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:0 tvg-logo="http://github.com/arisdelarea/Various/blob/master/img_BBCNews.png" group-title="Favorites",BBC World
+#EXTINF:0 tvg-logo="https://github.com/arisdelarea/Various/blob/master/img_BBCNews.png" group-title="Favorites",BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Favorites",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Favorites",CNN (US) (Opt-3)
-http://persik.tv/stream/1060/419250/10479.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="Favorites",DW (DE) (Opt-1)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
