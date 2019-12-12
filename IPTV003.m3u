@@ -19,3 +19,6 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 
 #EXTINF:0 tvg-logo="http://github.com/arisdelarea/Various/blob/master/img_BBCNews.png" group-title="Favorites",BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Favorites",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
