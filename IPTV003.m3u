@@ -50,3 +50,25 @@ https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
  
 #EXTINF:0 tvg-logo="https://i.imgur.com/3yuh4jV.png" group-title="Favorites",Singapore Ch. 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="Favorites",Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="Favorites",America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Favorites",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="USA",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="USA",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+
