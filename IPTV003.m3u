@@ -23,5 +23,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Favorites",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/knyzqhB.png" group-title="Favrorites",CNBC World (US)
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Favorites",CNN (US) (Opt-3)
+http://persik.tv/stream/1060/419250/10479.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="Favorites",DW (DE) (Opt-1)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
