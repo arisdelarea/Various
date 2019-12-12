@@ -4,3 +4,6 @@ http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="USA",Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:0 tvg-logo="https://github.com/arisdelarea/Various/blob/master/img_Fox.png" group-title="News",Fox News
+http://51.159.18.117:8000/jt6MfjFNn0/cQTgIUqlyM/89
