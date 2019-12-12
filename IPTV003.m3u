@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Favorites",Nat Geo Wild (Asia)
+#EXTINF:0 tvg-logo="https://bit.ly/349kjjL" group-title="Favorites",Nat Geo Wild (Asia)
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="Favorites",Nat Geo People
@@ -32,5 +32,5 @@ http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="Favorites",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
-#EXTINF:0 tvg-logo="https://bit.ly/2E8QRzF" group-title="Favorites",CBS Sports HQ (Geo)
-https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XTv8pla.png" group-title="Favorites",Motorsport TV
+http://45.58.62.92:8084
