@@ -9,6 +9,9 @@ http://45.58.62.92:8080
 #EXTINF:0 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="Favorites",NHK World
 http://45.126.83.51/uq2663/h/h23/index.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/fYDEkwE.png" group-title="Favorites",AXN
+http://45.126.83.51/dr9445/h/h09/index.m3u8
+
 #EXTINF:0 tvg-logo="https://bit.ly/349kjjL" group-title="Favorites",Nat Geo Wild (Asia)
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
